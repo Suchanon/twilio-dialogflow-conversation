@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jokes-ewit",
+  "private_key_id": "3fc7e1c4dfd97971cd47c642c23d1e7bb06fd9e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyWN9USw+/GRS8\nRBaIt2bRxLQ5P9qPDPQslo4OFWDTrImgrWkz3Ue7DfC4E4A+17Mu/a+dmBXNezKA\nUJ4CRakzXgPgB7IZjgnIeN5GP7oCT56CdCsym9xKyix+Iso0UoQB+Gp33ubO4R9l\nrgjz8gzvlLgr3zqts8gWCoapf1dfwsAdP1DvZFV0cZZbSeSnTZrDkVXwG/zDGiDf\nwn0r13SqEv/jDnnZTkHoCtpAm/o8RJqOjIER6REjt2Tb7Puu1XuG/6jBofiVdxr/\nChPtl6SFC3bTZw0EIVpYK4Jx+TU4Xx0RXuzC0Ea+5ggWLSU4ytvwP+Pwh8bva/LY\nfm0CTuz/AgMBAAECggEANiZyxJq30LtyRslbmC4rW1SgreM73oQ93Q3nWtJV4F86\nOF1+nD87CMnuRU2yeiIu5v0ipbRoJkgaKMiReToiahTJE2vywPyV7tb4EhdGSG5Z\nP926wfZ91/1zreatQ16scxa0aOn2ZWkICeziDgN3twSOOM/h9pyoCz0t7ufZpRqw\nSbTSNd8p8Rre8vm9iox3Lm7negIoxdDcNgfW06hYAS4HlwjpVvTXAO4qrdrAKWNr\nWLEO624jhplncIElkCnBZkRewNLIvQD3TFWBjKld5k8dytw4Hg2pcOPqWstyKuBg\n0dlddhFbALfeTQldU+8/42vI7pV85rNXtlOduQmL+QKBgQDZEeGwuK27uornQzzl\nQYVa0zspLIMDTZq7HVL8Z6h6uIosf6oEyFD93Qhp7m0SUnPS8h+Prbhc8n3iVKYU\nYL6JP4mFxMNti4/NTuoxpzUhwUHA/KbgFIM7myoajQujhVd4GNcv/84l4wxt6/KI\nsGIlqiA2m/gntnUytZZ6T8SsxwKBgQDSVSc4NvPx0VtgvWfqnChEU8IseCJqy8vb\nBy47lvdbi7SLglBqLxxwXEcCZK2Qgt3PKv/8P/RT34s3gxg6Nh+55Y8/3IaGQWol\nYjO19vfry3Y9LpnmzcWcMzAai6BLVBcAx/LRTvjgltroZMHpObYHO6YvgmueXvii\n7Gx6rNZWCQKBgBqoB38cLrmO/t/HcgL1ONsedXVo8e3F6epwf3BfimEHqHAufUJ5\nFvkV26KmlN5bIb4V3apXOvyvCqZwnrSB7OQN2WWD9DvPl6kut7PBRNUQVnLMk/GQ\nk00OkO0RxQwfo84rvsE2OKqOZ0hYYUBH6MWXTr1mCeNWlK3VftUmVpChAoGAB2AJ\nAgWbRC1tINVDYYycNNkjA+AqhMgkm8eCrYA7qDAb4pBtNWv1eVMjAkh5dYnBMVR2\nqWesr4w1G3szTEc9kY0lGr4m0WpVyH3LBmRkiRYXTUnnB5rLhRCebS/cLQgDznk0\nYHZ+b5Gal2+BBSaK5XIH/754+5Kk8UGNBDgvQ9ECgYEAn5Fa7DkXHQOxMKSsAZ1z\nTGuPtIKV0OWI50UuTiLgwgmrlAq4O9x+NLnV6MeTS2+ruCsTtt+6Jq/hJMDP5J9t\naSxVOU+FE2bxMxNcytilq1uxb8NIbWKib6EoIUBiiWJhcSIDOzFxR/Y99dBQPcvG\n4UXMyw5eALndXQlHR0u7hsQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "twilio-dialogflow@jokes-ewit.iam.gserviceaccount.com",
+  "client_id": "101560874314683266877",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/twilio-dialogflow%40jokes-ewit.iam.gserviceaccount.com"
+}
