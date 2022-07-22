@@ -1,0 +1,40 @@
+  twilio api:conversations:v1:configuration:addresses:create \
+	--friendly-name "Flex Conversation Service" \
+	--auto-creation.enabled  \
+	--auto-creation.type webhook \
+	--auto-creation.webhook-url https://e523-171-6-91-211.ngrok.io/dialogflow \
+	--auto-creation.webhook-method POST \
+	--auto-creation.webhook-filters onMessageAdded \
+	--type sms \
+	--address +14354474037
+
+	/Users/suchanonjaiwang/Downloads/jokes-ewit-3fc7e1c4dfd9.json
+
+	export GOOGLE_APPLICATION_CREDENTIALS="/Users/suchanonjaiwang/Downloads/jokes-ewit-3fc7e1c4dfd9.json"
+
+	import { v4 as uuidv4 } from "uuid";
+
+const generateSessionId = () => {
+  return uuidv4();
+};
+
+
+twilio api:conversations:v1:configuration:addresses:create \
+    --friendly-name "My Test Configuration" \
+    --auto-creation.enabled  \
+    --auto-creation.type webhook \
+    --auto-creation.conversation-service-sid IS979873939ffc49dbacf19bb0be53459f \
+    --auto-creation.webhook-url https://e523-171-6-91-211.ngrok.io/dialogflow \
+    --auto-creation.webhook-method POST \
+    --auto-creation.webhook-filters onParticipantAdded onMessageAdded \
+    --type sms \
+    --address +14354474037
+
+export default generateSessionId;
+
+SID AC3ea10b360f1a43544dc7d9f4419df323
+
+token e228416267428d31eb6f4b66c6d7c640
+curl -X POST https://conversations.twilio.com/v1/Conversations \
+--data-urlencode "FriendlyName=My First Conversation" \
+-u AC3ea10b360f1a43544dc7d9f4419df323:e228416267428d31eb6f4b66c6d7c640
